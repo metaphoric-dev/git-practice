@@ -1,0 +1,10 @@
+TODO - Open Source SW Lab7
+1. Learn git add/commit
+2. Practice branching
+3. Push to GitHub
+4. Submit board post
+
+
+
+
+
